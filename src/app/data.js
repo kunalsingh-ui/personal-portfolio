@@ -16,7 +16,7 @@ Websites:
 
 */
 
-/*
+
 export const projectsData = [
   {
     id: 1,
@@ -89,7 +89,7 @@ export const projectsData = [
     demoLink: "https://mindfulmoments.example.com",
   },
 ];
-*/
+
 
 export const BtnList = [
   { label: "Home", link: "/", icon: "home", newTab: false },
