@@ -8,3 +8,5 @@ export default function SubPagesLayout({ children }) {
     </main>
   );
 }
+
+/* layout */
